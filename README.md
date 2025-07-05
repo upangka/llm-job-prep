@@ -1,4 +1,7 @@
-hello world
+|                                                        |
+| ------------------------------------------------------ |
+| [gitee repo](https://gitee.com/pkmer/llm-job-prep)     |
+| [github repo](https://github.com/upangka/llm-job-prep) |
 
 ```sh
 # 分别推送 到 Gitee 和 GitHub
